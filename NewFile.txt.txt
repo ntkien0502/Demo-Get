@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-change file
-change file2
-=======
->>>>>>> parent of 99963a2 (Thay doi file)
-=======
-change file
->>>>>>> parent of 2fa1d3b (Thay doi file 2 NewFile.txt)
